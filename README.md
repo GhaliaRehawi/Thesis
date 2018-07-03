@@ -16,8 +16,10 @@ The structure is divided as follows:
 - All Notebooks: contain all experimental notebooks that was written during the thesis (Here you can execute the code to see ROC curves).
 
 ### Examples of generated ROC curves:
-Performance of Gaussian mixture model using the three different feature extraction methods on Validation set (https://github.com/GhaliaRihawi/Thesis/blob/master/GMM_GLCM-vs-Gabor-vs-LBP_valid.png)
+Performance of Gaussian mixture model using the three different feature extraction methods on Validation set
+![image here](https://github.com/GhaliaRihawi/Thesis/blob/master/GMM_GLCM-vs-Gabor-vs-LBP_valid.png)
 
-Performance of GMM, SVM, KNN using LBP as the feature extraction method on Validation set (https://github.com/GhaliaRihawi/Thesis/blob/master/GMM_SVM_KNN_GLCM-LBP_validation.png)
+Performance of GMM, SVM, KNN using LBP as the feature extraction method on Validation set 
+![image here](https://github.com/GhaliaRihawi/Thesis/blob/master/GMM_SVM_KNN_GLCM-LBP_validation.png)
 
 
