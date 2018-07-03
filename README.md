@@ -7,3 +7,10 @@ The core purpose of this thesis is the comparison between the three most used **
 - Gabor Filter
 - Gray-level co-occurrence matrix
 - Local Binary Pattern
+
+### Code directories:
+The structure is divided as follows:
+- Produce-all-results: where the actual training and evaluation of the three models occur (.py files)
+- Notebooks-FeatureExtraction : The notebooks for generating features from traning, validation and test datasets.
+- Extracted Features: numpy arrays of all extracted features using the three aforementioned methods.
+- All Notebooks: contain all experimental notebooks that was written during the thesis (Here you can execute the code to draw ROC curves).
