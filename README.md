@@ -14,3 +14,6 @@ The structure is divided as follows:
 - Notebooks-FeatureExtraction : The notebooks for generating features from training, validation and test datasets.
 - Extracted Features: numpy arrays of all extracted features using the three aforementioned methods.
 - All Notebooks: contain all experimental notebooks that was written during the thesis (Here you can execute the code to see ROC curves).
+
+### ROC exampeles:
+![Performance of Gaussian mixture model using the three different feature extraction methods on Validation set ](https://github.com/GhaliaRihawi/Thesis/blob/master/GMM_GLCM-vs-Gabor-vs-LBP_valid.png)
