@@ -13,4 +13,4 @@ The structure is divided as follows:
 - Produce-all-results: where the actual training and evaluation of the three models occur (.py files)
 - Notebooks-FeatureExtraction : The notebooks for generating features from training, validation and test datasets.
 - Extracted Features: numpy arrays of all extracted features using the three aforementioned methods.
-- All Notebooks: contain all experimental notebooks that was written during the thesis (Here you can execute the code to draw ROC curves).
+- All Notebooks: contain all experimental notebooks that was written during the thesis (Here you can execute the code to see ROC curves).
